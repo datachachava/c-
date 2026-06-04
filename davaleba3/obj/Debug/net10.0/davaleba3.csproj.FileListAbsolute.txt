@@ -1,0 +1,15 @@
+C:\Users\dchac\source\repos\c-\davaleba3\bin\Debug\net10.0\davaleba3.exe
+C:\Users\dchac\source\repos\c-\davaleba3\bin\Debug\net10.0\davaleba3.deps.json
+C:\Users\dchac\source\repos\c-\davaleba3\bin\Debug\net10.0\davaleba3.runtimeconfig.json
+C:\Users\dchac\source\repos\c-\davaleba3\bin\Debug\net10.0\davaleba3.dll
+C:\Users\dchac\source\repos\c-\davaleba3\bin\Debug\net10.0\davaleba3.pdb
+C:\Users\dchac\source\repos\c-\davaleba3\obj\Debug\net10.0\davaleba3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dchac\source\repos\c-\davaleba3\obj\Debug\net10.0\davaleba3.AssemblyInfoInputs.cache
+C:\Users\dchac\source\repos\c-\davaleba3\obj\Debug\net10.0\davaleba3.AssemblyInfo.cs
+C:\Users\dchac\source\repos\c-\davaleba3\obj\Debug\net10.0\davaleba3.csproj.CoreCompileInputs.cache
+C:\Users\dchac\source\repos\c-\davaleba3\obj\Debug\net10.0\davaleba3.sourcelink.json
+C:\Users\dchac\source\repos\c-\davaleba3\obj\Debug\net10.0\davaleba3.dll
+C:\Users\dchac\source\repos\c-\davaleba3\obj\Debug\net10.0\refint\davaleba3.dll
+C:\Users\dchac\source\repos\c-\davaleba3\obj\Debug\net10.0\davaleba3.pdb
+C:\Users\dchac\source\repos\c-\davaleba3\obj\Debug\net10.0\davaleba3.genruntimeconfig.cache
+C:\Users\dchac\source\repos\c-\davaleba3\obj\Debug\net10.0\ref\davaleba3.dll
